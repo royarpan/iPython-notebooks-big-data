@@ -1,2 +1,2 @@
 # iPython-notebooks-big-data
-Completed iPython notebooks from edX's Big Data/Machine Learning/Apache Spark series
+Completed iPython notebooks from edX's 2016 Big Data/Machine Learning/Apache Spark series 
